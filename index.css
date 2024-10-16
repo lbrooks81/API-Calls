@@ -1,0 +1,41 @@
+html, body
+{
+    text-align: center;
+}
+
+h1
+{
+    padding: 1rem 0;
+
+}
+#container
+{
+    text-align: center;
+    margin: 0 auto;
+}
+
+i
+{
+    position: absolute;
+    right: 0px;
+}
+
+#weather
+{
+    position: relative;
+    text-align: left;
+    margin: 0 auto;
+    width: 215px;
+}
+
+#description
+{
+    text-align: center;
+}
+
+#time
+{
+    margin-top: 1rem;
+    font-size: 1.25rem;
+}
+
