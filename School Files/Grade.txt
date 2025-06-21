@@ -1,0 +1,5 @@
+11/10 :D
+
+(-1) JavaScript should be included as an ECMAScript module. Only in the jQuery lab would JavaScript be used as CommonJS.
+
++2 for Bootstrap Icons used.
